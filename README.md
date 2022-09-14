@@ -10,7 +10,7 @@ as per the PO or not.
 
  - [Py file containing main codes](https://github.com/ravipratap366/PhotoGAUGE_assignment1-2/blob/main/inspection_system.py)
  - [requirements.txt](https://github.com/ravipratap366/PhotoGAUGE_assignment1-2/blob/main/requirements.txt)
- -
+ - [data]
  - [Jupyter notebook (contains other approaches i tried)](https://github.com/ravipratap366/PhotoGAUGE_assignment1-2/blob/main/INSPECTION%20SYSTEM.ipynb)
  - [pdf file (contains steps i tried in this project)](https://github.com/ravipratap366/PhotoGAUGE_assignment1-2/blob/main/PhotoGAUGE_final.pdf)
 
