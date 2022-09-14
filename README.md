@@ -74,7 +74,7 @@ stands , measured by capturing image from drone camera.
 
 
  - [colab link containing main codes(colab link)](https://colab.research.google.com/drive/1EwUTqSNqAwppkjmCQctQ6qWR6nHO6YnP#scrollTo=BC90wcMqwnt-)
- - [Required Data(google drive link) ](https://drive.google.com/drive/folders/1-M64d6-cWzQgiG7vxSfu-QN3EdBYw9PT?usp=sharing)
+ - [Required Data(google drive link) ]()
  - [Jupyter notebook (contains other approaches i tried)](https://github.com/ravipratap366/PhotoGAUGE_assignment1-2/blob/main/pipe_len_Detectron2_final_(2).ipynb)
  - [pdf file (contains steps i tried in this project)](https://github.com/ravipratap366/PhotoGAUGE_assignment1-2/blob/main/PhotoGAUGE_final.pdf)
 
