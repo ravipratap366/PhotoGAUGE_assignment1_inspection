@@ -111,7 +111,7 @@ longest pipe is 50' ,then give the lengh of other pipe according to their propor
 
 
 #### problem face-
-As can be seen from the drone shoots, there is significant overlap
+As we can  see from the drone shoots, there is significant overlap
 between two consecutive frames, which may lead to duplicate
 endpoints for a set of pipes in the two frames. How will you handle this
 and ensure that each pipe has only two endpoints
