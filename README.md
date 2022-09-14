@@ -1,2 +1,1 @@
-# PhotoGAUGE_assignment1_inspection
-PhotoGAUGE_assignment1_inspection
+
